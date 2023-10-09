@@ -1,167 +1,83 @@
 {
   "listview": [
     {
+      "level": "Beginner",
       "currentVersion": "1.0.1",
-      "exerciseId": "b1",
-      "exercises": [
+      "items": [
         {
-          "quizId": "b1q12",
-          "englishSentence": ["English"],
-          "highlightOrder": ["English", "English"],
-          "choiceList": ["영어"],
-          "particleChoiceList": ["는", "은"],
-          "answer": ["영어", "는"],
-          "stringAnswer": "영어는",
-          "guidanceMessages": [
-            "How to say 'English' in Korean?",
-            "What's the 'subject marker' in Korean?"
-          ]
+          "exerciseId": "b1",
+          "title": "은/는",
+          "cat": "Beginner",
+          "subCat": "은/는 & 이/가 (subject marker/topic marker)"
+        },
+
+        {
+          "exerciseId": "b2",
+          "title": "이/가",
+          "cat": "Beginner",
+          "subCat": "은/는 & 이/가 (subject marker/topic marker)"
         },
         {
-          "quizId": "b1q13",
-          "englishSentence": ["Love"],
-          "highlightOrder": ["Love", "Love"],
-          "choiceList": ["사랑"],
-          "particleChoiceList": ["는", "은"],
-          "answer": ["사랑", "은"],
-          "stringAnswer": "사랑은",
-          "guidanceMessages": [
-            "How to say 'love' in Korean?",
-            "What's the 'subject marker' in Korean?"
-          ]
+          "exerciseId": "b3",
+          "title": "을/를",
+          "cat": "Beginner",
+          "subCat": "을/를(Object Marker)"
         },
         {
-          "quizId": "b1q14",
-          "englishSentence": ["Door"],
-          "highlightOrder": ["Door", "Door"],
-          "choiceList": ["문"],
-          "particleChoiceList": ["는", "은"],
-          "answer": ["문", "은"],
-          "stringAnswer": "문은",
-          "guidanceMessages": [
-            "How to say 'door' in Korean?",
-            "What's the 'subject marker' in Korean?"
-          ]
+          "exerciseId": "b4",
+          "title": "이다(to be)",
+          "cat": "Beginner",
+          "subCat": "이다(to be)"
         },
         {
-          "quizId": "b1q15",
-          "englishSentence": ["Car"],
-          "highlightOrder": ["Car", "Car"],
-          "choiceList": ["자동차"],
-          "particleChoiceList": ["는", "은"],
-          "answer": ["자동차", "는"],
-          "stringAnswer": "자동차는",
-          "guidanceMessages": [
-            "How to say 'car' in Korean?",
-            "What's the 'subject marker' in Korean?"
-          ]
+          "exerciseId": "b5",
+          "title": "있다/없다(to exist, to not exist, to have, to not have)",
+          "cat": "Beginner",
+          "subCat": "있다/없다(to exist, to not exist, to have, to not have)"
         },
         {
-          "quizId": "b1q16",
-          "englishSentence": ["Store"],
-          "highlightOrder": ["Store", "Store"],
-          "choiceList": ["가게"],
-          "particleChoiceList": ["는", "은"],
-          "answer": ["가게", "는"],
-          "stringAnswer": "가게는",
-          "guidanceMessages": [
-            "How to say 'store' in Korean?",
-            "What's the 'subject marker' in Korean?"
-          ]
+          "exerciseId": "b6",
+          "title": "에 있다/없다(to be in/at + location)",
+          "cat": "Beginner",
+          "subCat": "(to be in/at + location)"
         },
         {
-          "quizId": "b1q17",
-          "englishSentence": ["Cloud"],
-          "highlightOrder": ["Cloud", "Cloud"],
-          "choiceList": ["구름"],
-          "particleChoiceList": ["는", "은"],
-          "answer": ["구름", "은"],
-          "stringAnswer": "구름은",
-          "guidanceMessages": [
-            "How to say 'cloud' in Korean?",
-            "What's the 'subject marker' in Korean?"
-          ]
+          "exerciseId": "b7",
+          "title": "아/어요/해요",
+          "cat": "Beginner",
+          "subCat": "The present tense of the informal polite style"
         },
         {
-          "quizId": "b1q18",
-          "englishSentence": ["Food"],
-          "highlightOrder": ["Food", "Food"],
-          "choiceList": ["음식"],
-          "particleChoiceList": ["는", "은"],
-          "answer": ["음식", "은"],
-          "stringAnswer": "음식은",
-          "guidanceMessages": [
-            "How to say 'food' in Korean?",
-            "What's the 'subject marker' in Korean?"
-          ]
+          "exerciseId": "b8",
+          "title": "았/었어요/했어요",
+          "cat": "Beginner",
+          "subCat": "The Past tense of the informal polite style"
         },
         {
-          "quizId": "b1q19",
-          "englishSentence": ["Language"],
-          "highlightOrder": ["Language", "Language"],
-          "choiceList": ["언어"],
-          "particleChoiceList": ["는", "은"],
-          "answer": ["언어", "는"],
-          "stringAnswer": "언어는",
-          "guidanceMessages": [
-            "How to say 'language' in Korean?",
-            "What's the 'subject marker' in Korean?"
-          ]
+          "exerciseId": "b9",
+          "title": "(으)ㄹ 거예요",
+          "cat": "Beginner",
+          "subCat": "The Future tense of the informal polite style"
         },
         {
-          "quizId": "b1q20",
-          "englishSentence": ["Clothes"],
-          "highlightOrder": ["Clothes", "Clothes"],
-          "choiceList": ["옷"],
-          "particleChoiceList": ["는", "은"],
-          "answer": ["옷", "은"],
-          "stringAnswer": "옷은",
-          "guidanceMessages": [
-            "How to say 'clothes' in Korean?",
-            "What's the 'subject marker' in Korean?"
-          ]
+          "exerciseId": "b10",
+          "title": "고 있다 (-ing)",
+          "cat": "Beginner",
+          "subCat": "Present Progressive"
         },
         {
-          "quizId": "b1q21",
-          "englishSentence": ["School"],
-          "highlightOrder": ["School", "School"],
-          "choiceList": ["학교"],
-          "particleChoiceList": ["는", "은"],
-          "answer": ["학교", "는"],
-          "stringAnswer": "학교는",
-          "guidanceMessages": [
-            "How to say 'school' in Korean?",
-            "What's the 'subject marker' in Korean?"
-          ]
+          "exerciseId": "b11",
+          "title": "고 있다 (to be wearing/taking off (attire))",
+          "cat": "Beginner",
+          "subCat": "to be wearing/taking off (attire)"
         },
         {
-          "quizId": "b1q22",
-          "englishSentence": ["Bus"],
-          "highlightOrder": ["Bus", "Bus"],
-          "choiceList": ["버스"],
-          "particleChoiceList": ["는", "은"],
-          "answer": ["버스", "는"],
-          "stringAnswer": "버스는",
-          "guidanceMessages": [
-            "How to say 'bus' in Korean?",
-            "What's the 'subject marker' in Korean?"
-          ]
-        },
-        {
-          "quizId": "b1q23",
-          "englishSentence": ["Book"],
-          "highlightOrder": ["Book", "Book"],
-          "choiceList": ["책"],
-          "particleChoiceList": ["는", "은"],
-          "answer": ["책", "은"],
-          "stringAnswer": "책은",
-          "guidanceMessages": [
-            "How to say 'book' in Korean?",
-            "What's the 'subject marker' in Korean?"
-          ]
+          "exerciseId": "b12",
+          "title": "(N) 와/과, (N)(이)랑, (N) 하고 (and)",
+          "cat": "Beginner",
+          "subCat": "Listing Particle"
         }
       ]
     }
   ]
 }
-
