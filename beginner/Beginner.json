@@ -1,79 +1,83 @@
 {
-  "level": "Beginner",
-  "currentVersion": "1.0.1",
-  "items": [
+  "listview": [
     {
-      "exerciseId": "b1",
-      "title": "은/는",
-      "cat": "Beginner",
-      "subCat": "은/는 & 이/가 (subject marker/topic marker)"
-    },
+      "level": "Beginner",
+      "currentVersion": "1.0.1",
+      "items": [
+        {
+          "exerciseId": "b1",
+          "title": "은/는",
+          "cat": "Beginner",
+          "subCat": "은/는 & 이/가 (subject marker/topic marker)"
+        },
 
-    {
-      "exerciseId": "b2",
-      "title": "이/가",
-      "cat": "Beginner",
-      "subCat": "은/는 & 이/가 (subject marker/topic marker)"
-    },
-    {
-      "exerciseId": "b3",
-      "title": "을/를",
-      "cat": "Beginner",
-      "subCat": "을/를(Object Marker)"
-    },
-    {
-      "exerciseId": "b4",
-      "title": "이다(to be)",
-      "cat": "Beginner",
-      "subCat": "이다(to be)"
-    },
-    {
-      "exerciseId": "b5",
-      "title": "있다/없다(to exist, to not exist, to have, to not have)",
-      "cat": "Beginner",
-      "subCat": "있다/없다(to exist, to not exist, to have, to not have)"
-    },
-    {
-      "exerciseId": "b6",
-      "title": "에 있다/없다(to be in/at + location)",
-      "cat": "Beginner",
-      "subCat": "(to be in/at + location)"
-    },
-    {
-      "exerciseId": "b7",
-      "title": "아/어요/해요",
-      "cat": "Beginner",
-      "subCat": "The present tense of the informal polite style"
-    },
-    {
-      "exerciseId": "b8",
-      "title": "았/었어요/했어요",
-      "cat": "Beginner",
-      "subCat": "The Past tense of the informal polite style"
-    },
-    {
-      "exerciseId": "b9",
-      "title": "(으)ㄹ 거예요",
-      "cat": "Beginner",
-      "subCat": "The Future tense of the informal polite style"
-    },
-    {
-      "exerciseId": "b10",
-      "title": "고 있다 (-ing)",
-      "cat": "Beginner",
-      "subCat": "Present Progressive"
-    },
-    {
-      "exerciseId": "b11",
-      "title": "고 있다 (to be wearing/taking off (attire))",
-      "cat": "Beginner",
-      "subCat": "to be wearing/taking off (attire)"
-    },
-    {
-      "exerciseId": "b12",
-      "title": "(N) 와/과, (N)(이)랑, (N) 하고 (and)",
-      "cat": "Beginner",
-      "subCat": "Listing Particle"
+        {
+          "exerciseId": "b2",
+          "title": "이/가",
+          "cat": "Beginner",
+          "subCat": "은/는 & 이/가 (subject marker/topic marker)"
+        },
+        {
+          "exerciseId": "b3",
+          "title": "을/를",
+          "cat": "Beginner",
+          "subCat": "을/를(Object Marker)"
+        },
+        {
+          "exerciseId": "b4",
+          "title": "이다(to be)",
+          "cat": "Beginner",
+          "subCat": "이다(to be)"
+        },
+        {
+          "exerciseId": "b5",
+          "title": "있다/없다(to exist, to not exist, to have, to not have)",
+          "cat": "Beginner",
+          "subCat": "있다/없다(to exist, to not exist, to have, to not have)"
+        },
+        {
+          "exerciseId": "b6",
+          "title": "에 있다/없다(to be in/at + location)",
+          "cat": "Beginner",
+          "subCat": "(to be in/at + location)"
+        },
+        {
+          "exerciseId": "b7",
+          "title": "아/어요/해요",
+          "cat": "Beginner",
+          "subCat": "The present tense of the informal polite style"
+        },
+        {
+          "exerciseId": "b8",
+          "title": "았/었어요/했어요",
+          "cat": "Beginner",
+          "subCat": "The Past tense of the informal polite style"
+        },
+        {
+          "exerciseId": "b9",
+          "title": "(으)ㄹ 거예요",
+          "cat": "Beginner",
+          "subCat": "The Future tense of the informal polite style"
+        },
+        {
+          "exerciseId": "b10",
+          "title": "고 있다 (-ing)",
+          "cat": "Beginner",
+          "subCat": "Present Progressive"
+        },
+        {
+          "exerciseId": "b11",
+          "title": "고 있다 (to be wearing/taking off (attire))",
+          "cat": "Beginner",
+          "subCat": "to be wearing/taking off (attire)"
+        },
+        {
+          "exerciseId": "b12",
+          "title": "(N) 와/과, (N)(이)랑, (N) 하고 (and)",
+          "cat": "Beginner",
+          "subCat": "Listing Particle"
+        }
+      ]
     }
   ]
 }
