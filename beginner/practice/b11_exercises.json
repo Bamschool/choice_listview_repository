@@ -1,0 +1,141 @@
+{
+  "currentVersion": "1.0.1",
+  "exerciseId": "b11",
+  "exercises": [
+    {
+      "quizId": "b11q1",
+      "englishSentence": ["I", "am wearing", "a bracelet."],
+      "highlightOrder": ["I", "am wearing", "a bracelet."],
+      "choiceList": ["를", "차고 있어요", "팔찌", "목걸이"],
+      "answer": ["팔찌", "를", "차고 있어요"],
+      "stringAnswer": "팔찌를 차고 있어요",
+      "guidanceMessages": [
+        "How to say 'bracelet' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'to be wearing + bracelets' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b11q2",
+      "englishSentence": ["I", "am wearing", "yellow", "pants."],
+      "highlightOrder": ["I", "am wearing", "yellow", "pants."],
+      "choiceList": ["바지", "를", "옷", "입고 있어요", "노란"],
+      "answer": ["노란", "바지", "를", "입고 있어요"],
+      "stringAnswer": "노란 바지를 입고 있어요",
+      "guidanceMessages": [
+        "How to say 'yellow' in Korean?",
+        "How to say 'pants' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to express the present progressive tense of 'to wear' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b11q3",
+      "englishSentence": ["I", "am wearing", "a ring", "now."],
+      "highlightOrder": ["I", "am wearing", "a ring", "now."],
+      "choiceList": ["끼고 있어요", "반지", "를", "지금"],
+      "answer": ["지금", "반지", "를", "끼고 있어요"],
+      "stringAnswer": "지금 반지를 끼고 있어요",
+      "guidanceMessages": [
+        "How to say 'now' in Korean?",
+        "How to say 'rings' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'to be wearing + rings' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b11q4",
+      "englishSentence": ["I", "am wearing", "glasses."],
+      "highlightOrder": ["I", "am wearing", "glasses."],
+      "choiceList": ["쓰고 있어요", "는", "안경", "저", "을"],
+      "answer": ["저", "는", "안경", "을", "쓰고 있어요"],
+      "stringAnswer": "저는 안경을 쓰고 있어요",
+      "guidanceMessages": [
+        "How to say 'I' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'glasses' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'to be wearing + glasses' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b11q5",
+      "englishSentence": ["I", "am taking off", "my clothes."],
+      "highlightOrder": ["I", "am taking off", "my clothes."],
+      "choiceList": ["을", "를", "벗고 있어요", "옷"],
+      "answer": ["옷", "을", "벗고 있어요"],
+      "stringAnswer": "옷을 벗고 있어요",
+      "guidanceMessages": [
+        "How to say 'clothes' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'to take off + clothes' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b11q6",
+      "englishSentence": ["I", "am wearing", "a skirt."],
+      "highlightOrder": ["I", "am wearing", "a skirt."],
+      "choiceList": ["를", "입고 있어요", "치마", "바지"],
+      "answer": ["치마", "를", "입고 있어요"],
+      "stringAnswer": "치마를 입고 있어요",
+      "guidanceMessages": [
+        "How to say 'skirt' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'to be wearing + skirt' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b11q7",
+      "englishSentence": ["I", "am wearing", "boots."],
+      "highlightOrder": ["I", "am wearing", "boots."],
+      "choiceList": ["를", "신고 있어요", "부츠", "옷", "을"],
+      "answer": ["부츠", "를", "신고 있어요"],
+      "stringAnswer": "부츠를 신고 있어요",
+      "guidanceMessages": [
+        "How to say 'boots' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'to be wearing + boots' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b11q8",
+      "englishSentence": ["I", "am wearing", "a necklace."],
+      "highlightOrder": ["I", "am wearing", "a necklace."],
+      "choiceList": ["를", "하고 있어요", "목걸이", "반지"],
+      "answer": ["목걸이", "를", "하고 있어요"],
+      "stringAnswer": "목걸이를 하고 있어요",
+      "guidanceMessages": [
+        "How to say 'necklace' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'to be wearing + a necklace' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b11q9",
+      "englishSentence": ["I", "am wearing", "a suit."],
+      "highlightOrder": ["I", "am wearing", "a suit."],
+      "choiceList": ["을", "양복", "입고 있어요", "를", "치마"],
+      "answer": ["양복", "을", "입고 있어요"],
+      "stringAnswer": "양복을 입고 있어요",
+      "guidanceMessages": [
+        "How to say 'suit' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'to be wearing + clothes' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b11q10",
+      "englishSentence": ["I", "am wearing", "my bags."],
+      "highlightOrder": ["I", "am wearing", "my bags."],
+      "choiceList": ["가방", "을", "매고 있어요", "제"],
+      "answer": ["제", "가방", "을", "매고 있어요"],
+      "stringAnswer": "제 가방을 매고 있어요",
+      "guidanceMessages": [
+        "How to say 'my' in Korean?",
+        "How to say 'bag' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'to be wearing + bags' in Korean?"
+      ]
+    }
+  ]
+}

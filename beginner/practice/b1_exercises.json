@@ -1,0 +1,187 @@
+{
+  "currentVersion": "1.0.1",
+  "exerciseId": "b1",
+  "exercises": [
+    {
+      "quizId": "b1q1",
+      "englishSentence": ["This", "song", "is", "good."],
+
+      "highlightOrder": ["This", "song", "song", "good."],
+      "choiceList": ["좋아요", "이", "노래"],
+      "particleChoiceList": ["는", "은"],
+      "answer": ["이", "노래", "는", "좋아요"],
+      "stringAnswer": "이 노래는 좋아요.",
+      "guidanceMessages": [
+        "How to say 'the' in Korean?",
+        "How to say 'song' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'good' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b1q2",
+      "englishSentence": ["The", "park", "is", "beautiful."],
+      "highlightOrder": ["The", "park", "park", "beautiful."],
+      "choiceList": ["공원", "아름다워요", "그"],
+      "particleChoiceList": ["는", "은"],
+
+      "answer": ["그", "공원", "은", "아름다워요"],
+      "stringAnswer": "그 공원은 아름다워요",
+      "guidanceMessages": [
+        "How to say 'the' in Korean?",
+        "How to say 'park' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'beautiful' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b1q3",
+      "englishSentence": ["I", "am", "a", "teacher."],
+      "highlightOrder": ["I", "I", "teacher.", "am"],
+      "choiceList": ["저", "선생님", "이에요"],
+      "particleChoiceList": ["는", "은"],
+      "answer": ["저", "는", "선생님", "이에요"],
+      "stringAnswer": "저는 선생님 이에요",
+      "guidanceMessages": ["저", "는", "선생님", "이에요"]
+    },
+    {
+      "quizId": "b1q4",
+      "englishSentence": ["The", "city", "is", "crowded."],
+      "highlightOrder": ["The", "city", "city", "is crowded."],
+      "choiceList": ["도시", "혼잡해요", "그"],
+      "particleChoiceList": ["는", "은"],
+      "answer": ["그", "도시", "는", "혼잡해요"],
+      "stringAnswer": "그 도시는 혼잡해요",
+      "guidanceMessages": [
+        "How to say 'the' in Korean?",
+        "How to say 'city' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'to be crowded' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b1q5",
+      "englishSentence": ["This", "food", "is", "delicious."],
+      "highlightOrder": ["This", "food", "food", "delicious."],
+      "choiceList": ["음식", "이", "맛있어요"],
+      "particleChoiceList": ["는", "은"],
+
+      "answer": ["이", "음식", "은", "맛있어요"],
+      "stringAnswer": "이 음식은 맛있어요",
+      "guidanceMessages": [
+        "How to say 'this' in Korean?",
+        "How to say 'food' in Korean?",
+        "Subject Marker",
+        "How to express 'delicious' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b1q6",
+      "englishSentence": ["The", "movie", "is", "entertaining."],
+      "highlightOrder": ["The", "movie", "movie", "is entertaining."],
+      "choiceList": ["영화", "그", "재미있어요."],
+      "particleChoiceList": ["는", "은"],
+      "answer": ["그", "영화", "는", "재미있어요."],
+      "stringAnswer": "그 영화는 재미있어요.",
+      "guidanceMessages": [
+        "How to say 'the' in Korean?",
+        "How to say 'movie' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'is entertaining' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b1q7",
+      "englishSentence": ["This", "car", "is", "fast."],
+      "highlightOrder": ["This", "car", "car", "fast"],
+      "choiceList": ["자동차", "빨라요", "이"],
+      "answer": ["이", "자동차", "는", "빨라요"],
+      "particleChoiceList": ["는", "은"],
+
+      "stringAnswer": "이 자동차는 빨라요",
+      "guidanceMessages": [
+        "How to say 'this' in Korean?",
+        "How to say 'car' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'fast' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b1q8",
+      "englishSentence": ["I", "am", "a", "student"],
+      "highlightOrder": ["I", "I", "student", "am"],
+      "choiceList": ["저", "학생", "이에요"],
+      "particleChoiceList": ["는", "은"],
+
+      "answer": ["저", "는", "학생", "이에요"],
+      "stringAnswer": "저는 학생 이에요",
+      "guidanceMessages": [
+        "How to say I in Korean?",
+        "Subject Marker",
+        "How to say 'a student' in Korean?",
+        "How to express 'to be' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b1q9",
+      "englishSentence": ["This", "book", "is", "famous"],
+      "highlightOrder": ["This", "book", "book", "famous"],
+      "choiceList": ["유명해요", "책", "이"],
+      "particleChoiceList": ["는", "은"],
+      "answer": ["이", "책", "은", "유명해요"],
+      "stringAnswer": "이 책은 유명해요",
+      "guidanceMessages": [
+        "How to say 'this' in Korean?",
+        "How to say 'book' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'famous' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b1q10",
+      "englishSentence": ["The", "person", "is", "kind."],
+      "highlightOrder": ["The", "person", "person", "kind."],
+      "choiceList": ["사람", "친절해요", "그"],
+      "answer": ["그", "사람", "은", "친절해요"],
+      "particleChoiceList": ["는", "은"],
+      "stringAnswer": "그 사람은 친절해요",
+      "guidanceMessages": [
+        "How to say 'the' in Korean?",
+        "How to say 'person' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'kind' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b1q11",
+      "englishSentence": ["The", "school", "is", "big."],
+      "highlightOrder": ["The", "school", "school", "is big."],
+      "choiceList": ["그", "커요", "학교"],
+      "particleChoiceList": ["는", "은"],
+      "answer": ["그", "학교", "는", "커요"],
+      "stringAnswer": "그 학교는 커요",
+      "guidanceMessages": [
+        "How to say 'the' in Korean?",
+        "How to say 'school' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'big' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b1q12",
+      "englishSentence": ["The", "person", "is", "kind."],
+      "highlightOrder": ["The", "person", "person", "kind."],
+      "choiceList": ["사람", "친절해요", "그"],
+      "particleChoiceList": ["는", "은"],
+      "answer": ["그", "사람", "은", "친절해요"],
+      "stringAnswer": "그 사람은 친절해요",
+      "guidanceMessages": [
+        "How to say 'the' in Korean?",
+        "How to say 'person' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'kind' in Korean?"
+      ]
+    }
+  ]
+}

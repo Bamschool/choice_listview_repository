@@ -1,0 +1,166 @@
+{
+  "currentVersion": "1.0.1",
+  "exerciseId": "b6",
+  "exercises": [
+    {
+      "quizId": "b6q1",
+      "englishSentence": ["I", "am not", "in", "court."],
+      "highlightOrder": ["court.", "in", "am not"],
+      "choiceList": ["없어요", "법원", "에"],
+      "answer": ["법원", "에", "없어요"],
+      "stringAnswer": "법원에 없어요",
+      "guidanceMessages": [
+        "How to say 'court' in Korean?",
+        "How to express a particle that indicates the location in Korean?",
+        "What is the present tense of “to not have/to not exist“ in Korean?"
+      ]
+    },
+    {
+      "quizId": "b6q2",
+      "englishSentence": ["Minji", "is", "at", "school."],
+      "highlightOrder": ["Minji", "Minji", "school.", "at", "at"],
+      "choiceList": ["는", "학교", "민지", "있어요", "에"],
+      "answer": ["민지", "는", "학교", "에", "있어요"],
+      "stringAnswer": "민지는 학교에 있어요",
+      "guidanceMessages": [
+        "How to say 'Minji' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'school' in Korean?",
+        "How to express a particle that indicates the location in Korean?",
+        "What is the present tense of “to have/to exist“ in Korean?"
+      ]
+    },
+    {
+      "quizId": "b6q3",
+      "englishSentence": ["There's no", "an orange", "on", "the table"],
+      "highlightOrder": [
+        "the table",
+        "on",
+        "an orange",
+        "an orange",
+        "There's no"
+      ],
+      "choiceList": ["가", "없어요", "위에", "식탁", "오렌지"],
+      "answer": ["식탁", "위에", "오렌지", "가", "없어요"],
+      "stringAnswer": "식탁 위에 오렌지가 없어요",
+      "guidanceMessages": [
+        "How to say 'table' in Korean?",
+        "How to say 'on' in Korean?",
+        "How to say 'orange' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of “to not have/to not exist“ in Korean?"
+      ]
+    },
+    {
+      "quizId": "b6q4",
+      "englishSentence": ["There's", "a pen", "above", "my", "head."],
+      "highlightOrder": ["my", "head.", "above", "a pen", "There's"],
+      "choiceList": ["있어요", "머리", "위에", "볼펜이", "제"],
+      "answer": ["제", "머리", "위에", "볼펜이", "있어요"],
+      "stringAnswer": "제 머리 위에 볼펜이 있어요",
+      "guidanceMessages": [
+        "How to say 'my' in Korean?",
+        "How to say 'head' in Korean?",
+        "How to say 'above' in Korean?",
+        "How to say 'pencil' in Korean?",
+        "What is the present tense of “to have/to exist“ in Korean?"
+      ]
+    },
+    {
+      "quizId": "b6q5",
+      "englishSentence": ["The", "computer", "is", "at", "the", "company,"],
+      "highlightOrder": ["The", "computer", "computer", "company,", "at", "is"],
+      "choiceList": ["컴퓨터", "는", "회사", "그", "있어요", "에"],
+      "answer": ["그", "컴퓨터", "는", "회사", "에", "있어요"],
+      "stringAnswer": "그 컴퓨터는 회사에 있어요",
+      "guidanceMessages": [
+        "How to say 'the' in Korean?",
+        "How to say 'computer' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'company' in Korean?",
+        "How to express a particle that indicates the location in Korean?",
+        "What is the present tense of “to have/to exist“ in Korean?"
+      ]
+    },
+    {
+      "quizId": "b6q6",
+      "englishSentence": ["I am", "in", "Korea."],
+      "highlightOrder": ["I am", "I am", "Korea.", "in", "in"],
+      "choiceList": ["한국", "에", "저", "는", "있어요"],
+      "answer": ["저", "는", "한국", "에", "있어요"],
+      "stringAnswer": "저는 한국에 있어요",
+      "guidanceMessages": [
+        "How to say 'I' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'Korea' in Korean?",
+        "How to express a particle that indicates the location in Korean?",
+        "What is the present tense of “to have/to exist“ in Korean?"
+      ]
+    },
+    {
+      "quizId": "b6q7",
+      "englishSentence": ["There are", "birds", "on", "the pole."],
+      "highlightOrder": ["the pole.", "on", "birds", "birds", "There are"],
+      "choiceList": ["위에", "전봇대", "새들", "있어요", "이"],
+      "answer": ["전봇대", "위에", "새들", "이", "있어요"],
+      "stringAnswer": "전봇대 위에 새들이 있어요",
+      "guidanceMessages": [
+        "How to say 'pole' in Korean?",
+        "How to say 'on' in Korean?",
+        "How to say 'birds' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of “to have/to exist“ in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b6q8",
+      "englishSentence": ["I", "am not", "in", "court."],
+      "highlightOrder": ["court.", "in", "am not"],
+      "choiceList": ["없어요", "법원", "에"],
+      "answer": ["법원", "에", "없어요"],
+      "stringAnswer": "법원에 없어요",
+      "guidanceMessages": [
+        "How to say 'court' in Korean?",
+        "How to express a particle that indicates the location in Korean?",
+        "What is the present tense of “to not have/to not exist“ in Korean?"
+      ]
+    },
+    {
+      "quizId": "b6q9",
+      "englishSentence": ["Minji", "is", "at", "school."],
+      "highlightOrder": ["Minji", "Minji", "school.", "at", "at"],
+      "choiceList": ["는", "학교", "민지", "있어요", "에"],
+      "answer": ["민지", "는", "학교", "에", "있어요"],
+      "stringAnswer": "민지는 학교에 있어요",
+      "guidanceMessages": [
+        "How to say 'Minji' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'school' in Korean?",
+        "How to express a particle that indicates the location in Korean?",
+        "What is the present tense of “to have/to exist“ in Korean?"
+      ]
+    },
+    {
+      "quizId": "b6q10",
+      "englishSentence": ["There's no", "an orange", "on", "the table"],
+      "highlightOrder": [
+        "the table",
+        "on",
+        "an orange",
+        "an orange",
+        "There's no"
+      ],
+      "choiceList": ["가", "없어요", "위에", "식탁", "오렌지"],
+      "answer": ["식탁", "위에", "오렌지", "가", "없어요"],
+      "stringAnswer": "식탁 위에 오렌지가 없어요",
+      "guidanceMessages": [
+        "How to say 'table' in Korean?",
+        "How to say 'on' in Korean?",
+        "How to say 'orange' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of “to not have/to not exist“ in Korean?"
+      ]
+    }
+  ]
+}

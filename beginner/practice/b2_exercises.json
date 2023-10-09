@@ -1,0 +1,160 @@
+{
+  "currentVersion": "1.0.1",
+  "exerciseId": "b2",
+  "exercises": [
+    {
+      "quizId": "b2q1",
+      "englishSentence": ["This", "coffee", "is", "strong."],
+      "highlightOrder": ["This", "coffee", "coffee", "strong."],
+      "choiceList": ["커피", "진해요", "가", "이"],
+      "answer": ["이", "커피", "가", "진해요"],
+      "stringAnswer": "이 커피가 진해요",
+      "guidanceMessages": [
+        "How to say 'this' in Korean?",
+        "How to say 'coffee' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'strong' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b2q2",
+      "englishSentence": ["The", "hotel", "is", "convenient."],
+      "highlightOrder": ["The", "hotel", "hotel", "convenient."],
+      "choiceList": ["호텔", "그", "편리해요", "이"],
+      "answer": ["그", "호텔", "이", "편리해요"],
+      "stringAnswer": "그 호텔이 편리해요",
+      "guidanceMessages": [
+        "How to say 'the' in Korean?",
+        "How to say 'hotel' in Korean?",
+        "How to express'subject marker' in Korean?",
+        "How to say 'convenient' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b2q3",
+      "englishSentence": ["This", "book", "is", "informative."],
+      "highlightOrder": ["This", "book", "book", "informative."],
+      "choiceList": ["그", "유익하다", "책", "이"],
+      "answer": ["그", "책", "이", "유익하다"],
+      "stringAnswer": "그 책이 유익하다",
+      "guidanceMessages": [
+        "How to say 'this' in Korean?",
+        "How to say 'book' in Korean?",
+        "How to say 'subject marker' in Korean?",
+        "How to say 'informative' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b2q4",
+      "englishSentence": ["The", "person", "is", "talented."],
+      "highlightOrder": ["The", "person", "person", "talented."],
+      "choiceList": ["그", "재능있어요", "이", "사람"],
+      "answer": ["그", "사람", "이", "재능있어요"],
+      "stringAnswer": "그 사람이 재능있어요",
+      "guidanceMessages": [
+        "How to say 'this' in Korean?",
+        "How to say 'person' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'talented' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b2q5",
+      "englishSentence": ["The", "outfit", "is", "stylish."],
+      "highlightOrder": ["The", "outfit", "outfit", "stylish."],
+      "choiceList": ["옷", "그", "세련돼요", "이"],
+      "answer": ["그", "옷", "이", "세련돼요"],
+      "stringAnswer": "그 옷이 세련돼요",
+      "guidanceMessages": [
+        "How to say 'the' in Korean?",
+        "How to say 'outfit' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'stylish' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b2q6",
+      "englishSentence": ["This", "meat", "is", "fresh"],
+      "highlightOrder": ["This", "meat", "meat", "fresh"],
+      "choiceList": ["고기", "이", "신선해요", "가"],
+      "answer": ["이", "고기", "가", "신선해요"],
+      "stringAnswer": "이 고기가 신선해요",
+      "guidanceMessages": [
+        "How to say 'this' in Korean?",
+        "How to say 'meat' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'fresh' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b2q7",
+      "englishSentence": ["This", "song", "is", "sweet."],
+      "highlightOrder": ["This", "song", "song", "sweet."],
+      "choiceList": ["노래", "가", "감미로워요", "이"],
+      "answer": ["이", "노래", "가", "감미로워요"],
+      "stringAnswer": "이 노래가 감미로워요",
+      "guidanceMessages": [
+        "How to say 'this' in Korean?",
+        "How to say 'song' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'sweet' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b2q8",
+      "englishSentence": ["The", "color", "is", "vibrant."],
+      "highlightOrder": ["The", "color", "color", "vibrant."],
+      "choiceList": ["색깔", "그", "화려해요", "이"],
+      "answer": ["그", "색깔", "이", "화려해요"],
+      "stringAnswer": "그 색깔이 화려해요",
+      "guidanceMessages": [
+        "How to say 'the' in Korean?",
+        "How to say 'color' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'vibrant' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b2q9",
+      "englishSentence": ["The", "song", "is", "touching."],
+      "highlightOrder": ["The", "song", "song", "touching."],
+      "choiceList": ["노래", "가", "이", "감동적이에요"],
+      "answer": ["이", "노래", "가", "감동적이에요"],
+      "stringAnswer": "이 노래가 감동적이에요",
+      "guidanceMessages": [
+        "How to say 'this' in Korean?",
+        "How to say 'song' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'touching' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b2q10",
+      "englishSentence": ["This", "car", "is", "safe."],
+      "highlightOrder": ["This", "car", "car", "safe."],
+      "choiceList": ["차", "이", "가", "안전해요"],
+      "answer": ["이", "차", "가", "안전해요"],
+      "stringAnswer": "이 차가 안전해요",
+      "guidanceMessages": [
+        "How to say 'this' in Korean?",
+        "How to say 'car' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'safe' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b2q11",
+      "englishSentence": ["The", "hotel", "is", "comfortable."],
+      "highlightOrder": ["The", "hotel", "hotel", "comfortable."],
+      "choiceList": ["호텔", "그", "편안해요", "이"],
+      "answer": ["그", "호텔", "이", "편안해요"],
+      "stringAnswer": "그 호텔이 편안해요",
+      "guidanceMessages": [
+        "How to say 'The' in Korean?",
+        "How to say 'hotel' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'comfortable' in Korean?"
+      ]
+    }
+  ]
+}

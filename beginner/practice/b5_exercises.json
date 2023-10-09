@@ -1,0 +1,197 @@
+{
+  "currentVersion": "1.0.1",
+  "exerciseId": "b4",
+  "exercises": [
+    {
+      "quizId": "b5q1",
+      "englishSentence": ["I", "have", "proof."],
+      "highlightOrder": ["proof.", "proof.", "have"],
+      "choiceList": ["있어요", "증거", "가"],
+      "answer": ["증거", "가", "있어요"],
+      "stringAnswer": "증거가 있어요",
+      "guidanceMessages": [
+        "How to say 'proof' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to have/to exist' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b5q2",
+      "englishSentence": ["I", "don't have", "a lot", "of", "books."],
+      "highlightOrder": ["books.", "books.", "a lot", "don't have"],
+      "choiceList": ["책", "많이", "없어요", "이"],
+      "answer": ["책", "이", "많이", "없어요"],
+      "stringAnswer": "책이 많이 없어요",
+      "guidanceMessages": [
+        "How to say 'book' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'a lot' in Korean?",
+        "What is the present tense of 'to not have/to not exist' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b5q3",
+      "englishSentence": ["I", "have", "money."],
+      "highlightOrder": ["money.", "money.", "have"],
+      "choiceList": ["돈", "이", "있어요", "없어요"],
+      "answer": ["돈", "이", "있어요"],
+      "stringAnswer": "돈이 있어요",
+      "guidanceMessages": [
+        "How to say 'money' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to have/to exist' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b5q4",
+      "englishSentence": ["I", "don't have", "time."],
+      "highlightOrder": ["time.", "time.", "don't have"],
+      "choiceList": ["시간", "없어요", "이"],
+      "answer": ["시간", "이", "없어요"],
+      "stringAnswer": "시간이 없어요",
+      "guidanceMessages": [
+        "How to say 'time' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to not have/to not exist' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b5q5",
+      "englishSentence": ["I", "have", "a computer."],
+      "highlightOrder": ["a computer.", "a computer.", "have"],
+      "choiceList": ["있어요", "가", "컴퓨터"],
+      "answer": ["컴퓨터", "가", "있어요"],
+      "stringAnswer": "컴퓨터가 있어요",
+      "guidanceMessages": [
+        "How to say 'computer' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to have/to exist' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b5q6",
+      "englishSentence": ["I", "don't have", "a friend."],
+      "highlightOrder": ["a friend.", "a friend.", "don't have"],
+      "choiceList": ["친구", "가", "없어요", "있어요"],
+      "answer": ["친구", "가", "없어요"],
+      "stringAnswer": "친구가 없어요",
+      "guidanceMessages": [
+        "How to say 'friend' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to not have/to not exist' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b5q7",
+      "englishSentence": ["I", "have", "a ball."],
+      "highlightOrder": ["a ball.", "a ball.", "have"],
+      "choiceList": ["있어요", "공", "이"],
+      "answer": ["공", "이", "있어요"],
+      "stringAnswer": "공이 있어요",
+      "guidanceMessages": [
+        "How to say 'ball' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to have/to exist' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b5q8",
+      "englishSentence": ["I", "have", "a pencil case."],
+      "highlightOrder": ["a pencil case.", "a pencil case.", "have"],
+      "choiceList": ["필통", "이", "있어요"],
+      "answer": ["필통", "이", "있어요"],
+      "stringAnswer": "필통이 있어요",
+      "guidanceMessages": [
+        "How to say 'pencil case' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to have/to exist' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b5q9",
+      "englishSentence": ["I", "have", "a water bottle."],
+      "highlightOrder": ["a water bottle.", "a water bottle.", "have"],
+      "choiceList": ["물병", "이", "있어요"],
+      "answer": ["물병", "이", "있어요"],
+      "stringAnswer": "물병이 있어요",
+      "guidanceMessages": [
+        "How to say 'water bottle' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to have/to exist' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b5q10",
+      "englishSentence": ["I", "have", "a chance."],
+      "highlightOrder": ["a chance.", "a chance.", "have"],
+      "choiceList": ["기회", "가", "있어요."],
+      "answer": ["기회", "가", "있어요."],
+      "stringAnswer": "기회가 있어요.",
+      "guidanceMessages": [
+        "How to say 'chance' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to have/to exist' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b5q7",
+      "englishSentence": ["I", "have", "a ball."],
+      "highlightOrder": ["a ball.", "a ball.", "have"],
+      "choiceList": ["있어요", "공", "이"],
+      "answer": ["공", "이", "있어요"],
+      "stringAnswer": "공이 있어요",
+      "guidanceMessages": [
+        "How to say 'ball' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to have/to exist' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b5q8",
+      "englishSentence": ["I", "have", "a pencil case."],
+      "highlightOrder": ["a pencil case.", "a pencil case.", "have"],
+      "choiceList": ["필통", "이", "있어요"],
+      "answer": ["필통", "이", "있어요"],
+      "stringAnswer": "필통이 있어요",
+      "guidanceMessages": [
+        "How to say 'pencil case' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to have/to exist' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b5q9",
+      "englishSentence": ["I", "have", "a water bottle."],
+      "highlightOrder": ["a water bottle.", "a water bottle.", "have"],
+      "choiceList": ["물병", "이", "있어요"],
+      "answer": ["물병", "이", "있어요"],
+      "stringAnswer": "물병이 있어요",
+      "guidanceMessages": [
+        "How to say 'water bottle' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to have/to exist' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b5q10",
+      "englishSentence": ["I", "have", "a chance."],
+      "highlightOrder": ["a chance.", "a chance.", "have"],
+      "choiceList": ["기회", "가", "있어요."],
+      "answer": ["기회", "가", "있어요."],
+      "stringAnswer": "기회가 있어요.",
+      "guidanceMessages": [
+        "How to say 'chance' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "What is the present tense of 'to have/to exist' in Korean?"
+      ]
+    }
+  ]
+}

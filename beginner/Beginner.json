@@ -1,0 +1,19 @@
+{
+  "level": "Beginner",
+  "currentVersion": "1.0.1",
+  "items": [
+    {
+      "exerciseId": "b1",
+      "title": "은/는",
+      "cat": "Beginner",
+      "subCat": "은/는 & 이/가"
+    },
+
+    {
+      "exerciseId": "b2",
+      "title": "이/가",
+      "cat": "Beginner",
+      "subCat": "은/는 & 이/가"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "currentVersion": "1.0.1",
+  "exerciseId": "b3",
+  "exercises": [
+    {
+      "quizId": "b3q1",
+      "englishSentence": ["Who", "will", "you", "meet", "today?"],
+      "highlightOrder": ["today?", "who", "Who", "meet"],
+      "choiceList": ["누구", "오늘", "만나요?", "를"],
+      "answer": ["누구", "오늘", "를", "만나요?"],
+      "stringAnswer": "누구 오늘을 만나요?",
+      "guidanceMessages": [
+        "How to say 'today' in Korean?",
+        "How to say 'who' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'meet' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b3q2",
+      "englishSentence": ["I", "like", "cats"],
+      "highlightOrder": ["I", "I", "cats", "cats", "like"],
+      "choiceList": ["는", "를", "좋아해요", "저", "느"],
+      "answer": ["저", "는", "고양이", "를", "좋아해요"],
+      "stringAnswer": "저는 고양이를 좋아해요",
+      "guidanceMessages": [
+        "How to say 'I' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'cat' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'to like' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b3q3",
+      "englishSentence": ["What", "do you", "study?"],
+      "highlightOrder": ["What", "What", "study?"],
+      "choiceList": ["배워요?", "무엇", "을"],
+      "answer": ["무엇", "을", "배워요?"],
+      "stringAnswer": "무엇을 배워요?",
+      "guidanceMessages": [
+        "How to say 'what' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'to learn' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b3q4",
+      "englishSentence": ["Jonghwan", "listens", "to", "music."],
+      "highlightOrder": ["Jonghwan", "Jonghwan", "music.", "to", "listens"],
+      "choiceList": ["가", "종환 씨", "을", "들어요", "음악"],
+      "answer": ["종환 씨", "가", "음악", "을", "들어요"],
+      "stringAnswer": "종환 씨가 음악을 들어요",
+      "guidanceMessages": [
+        "How to say 'jonghwan' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'music' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'listen' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b3q5",
+      "englishSentence": ["Dad", "reads", "the", "newspaper."],
+      "highlightOrder": ["Dad", "Dad", "newspaper.", "newspaper.", "reads"],
+      "choiceList": ["가", "신문", "읽어요", "을", "아버지"],
+      "answer": ["아버지", "가", "신문", "을", "읽어요"],
+      "stringAnswer": "아버지가 신문을 읽어요",
+      "guidanceMessages": [
+        "How to say 'dad' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'newspaper' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'read' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b3q6",
+      "englishSentence": ["Dad", "reads", "the", "newspaper."],
+      "highlightOrder": ["Dad", "Dad", "newspaper.", "newspaper.", "reads"],
+      "choiceList": ["가", "신문", "읽어요", "을", "아버지"],
+      "answer": ["아버지", "가", "신문", "을", "읽어요"],
+      "stringAnswer": "아버지가 신문을 읽어요",
+      "guidanceMessages": [
+        "How to say 'dad' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'newspaper' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'read' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b3q7",
+      "englishSentence": ["I", "meet", "my", "girlfriend."],
+      "highlightOrder": ["I", "I", "my", "girlfriend.", "girlfriend.", "meet"],
+      "choiceList": ["는", "를", "여자 친구", "저의", "만나요", "저"],
+      "answer": ["저", "는", "저의", "여자 친구", "를", "만나요"],
+      "stringAnswer": "저는 저의 여자 친구를 만나요",
+      "guidanceMessages": [
+        "How to say 'I' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'my' in Korean?",
+        "How to say 'girlfriend' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'meet' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b3q8",
+      "englishSentence": ["What kind of", "exercise", "do you", "like?"],
+      "highlightOrder": ["What kind of", "exercise", "exercise", "like?"],
+      "choiceList": ["운동", "좋아해요?", "무슨", "을"],
+      "answer": ["무슨", "운동", "을", "좋아해요?"],
+      "stringAnswer": "무슨 운동을 좋아해요?",
+      "guidanceMessages": [
+        "How to say 'what kind of' in Korean?",
+        "How to say 'exercise' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'like?' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b3q9",
+      "englishSentence": ["Minji", "reads", "a book."],
+      "highlightOrder": ["Minji", "Minji", "a book.", "a book.", "reads"],
+      "choiceList": ["는", "을", "민지", "읽어요", "책"],
+      "answer": ["민지", "는", "책", "을", "읽어요"],
+      "stringAnswer": "민지는 책을 읽어요",
+      "guidanceMessages": [
+        "How to say 'Minji' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'book' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'read' in Korean?"
+      ]
+    },
+
+    {
+      "quizId": "b3q10",
+      "englishSentence": ["Inae", "watches", "a movie."],
+      "highlightOrder": ["Inae", "Inae", "a movie.", "a movie.", "watches"],
+      "choiceList": ["가", "영화", "를", "봐요", "인애 씨"],
+      "answer": ["인애 씨", "가", "영화", "를", "봐요"],
+      "stringAnswer": "인애 씨가 영화를 봐요",
+      "guidanceMessages": [
+        "How to say 'Inae' in Korean?",
+        "How to express 'subject marker' in Korean?",
+        "How to say 'movie' in Korean?",
+        "How to express 'object marker' in Korean?",
+        "How to say 'to watch' in Korean?"
+      ]
+    }
+  ]
+}
