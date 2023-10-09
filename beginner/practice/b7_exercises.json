@@ -12,14 +12,16 @@
         "pictures",
         "takes"
       ],
-      "choiceList": ["은", "사진", "형", "찍어요", "을"],
+      "choiceList": ["사진", "형"],
+      "particleChoiceList": ["을", "은"],
+      "endingList": ["찍어요"],
       "answer": ["형", "은", "사진", "을", "찍어요"],
-      "stringAnswer": "형은 사진을 찍어요",
+      "stringAnswer": "형은 사진을 찍어요.",
       "guidanceMessages": [
         "How to say 'brother' in Korean?",
-        "How to express 'subject marker' in Korean?",
+        "What's the 'subject marker' in Korean?",
         "How to say 'pictures' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "How to say 'take' a picture in Korean?"
       ]
     },
@@ -27,12 +29,14 @@
       "quizId": "b7q2",
       "englishSentence": ["I", "buy", "a book."],
       "highlightOrder": ["a book.", "a book.", "buy"],
-      "choiceList": ["사요", "책", "을"],
+      "choiceList": ["책"],
+      "particleChoiceList": ["을"],
+      "endingList": ["사요"],
       "answer": ["책", "을", "사요"],
-      "stringAnswer": "책을 사요",
+      "stringAnswer": "책을 사요.",
       "guidanceMessages": [
         "How to say 'book' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "How to say 'to buy' in Korean?"
       ]
     },
@@ -40,30 +44,34 @@
       "quizId": "b7q3",
       "englishSentence": ["Yongwon", "reads", "a book"],
       "highlightOrder": ["Yongwon", "Yongwon", "a book", "a book", "reads"],
-      "choiceList": ["는", "용원 씨", "책", "을", "읽어요"],
+      "choiceList": ["용원 씨", "책"],
+      "particleChoiceList": ["는", "을"],
+      "endingList": ["읽어요"],
       "answer": ["용원 씨", "는", "책", "을", "읽어요"],
-      "stringAnswer": "용원 씨는 책을 읽어요",
+      "stringAnswer": "용원 씨는 책을 읽어요.",
       "guidanceMessages": [
         "How to say 'Yongwon' in Korean?",
-        "How to express 'subject marker' in Korean?",
+        "What's the 'subject marker' in Korean?",
         "How to say 'a book' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "How to say 'read' in Korean?"
       ]
     },
     {
       "quizId": "b7q4",
       "englishSentence": ["Every day,", "I", "ride", "a bicycle."],
-      "highlightOrder": ["Every day,", "I", "I", "ride", "ride", "a bicycle."],
-      "choiceList": ["매일", "자전거", "타요", "저", "는", "를"],
+      "highlightOrder": ["I", "I", "Every day,", "ride", "ride", "a bicycle."],
+      "choiceList": ["매일", "자전거", "저"],
+      "particleChoiceList": ["는", "를"],
+      "endingList": ["타요"],
       "answer": ["저", "는", "매일", "자전거", "를", "타요"],
-      "stringAnswer": "저는 매일 자전거를 타요",
+      "stringAnswer": "저는 매일 자전거를 타요.",
       "guidanceMessages": [
-        "How to say 'every day' in Korean?",
         "How to say 'I' in Korean?",
-        "How to express 'subject marker' in Korean?",
+        "What's the 'subject marker' in Korean?",
+        "How to say 'every day' in Korean?",
         "How to say 'a bicycle' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "How to say 'ride' in Korean?"
       ]
     },
@@ -71,14 +79,16 @@
       "quizId": "b7q5",
       "englishSentence": ["Minji", "drinks", "coffee."],
       "highlightOrder": ["Minji", "Minji", "coffee.", "coffee.", "drinks"],
-      "choiceList": ["커피", "민지", "는", "를", "마셔요"],
+      "choiceList": ["커피", "민지"],
+      "particleChoiceList": ["는", "를"],
+      "endingList": ["마셔요"],
       "answer": ["민지", "는", "커피", "를", "마셔요"],
-      "stringAnswer": "민지는 커피를 마셔요",
+      "stringAnswer": "민지는 커피를 마셔요.",
       "guidanceMessages": [
         "How to say 'Minji' in Korean?",
-        "How to express 'subject marker' in Korean?",
+        "What's the 'subject marker' in Korean?",
         "How to say 'coffee' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "How to say 'drink' in Korean?"
       ]
     },
@@ -86,12 +96,14 @@
       "quizId": "b7q6",
       "englishSentence": ["I", "practice", "a piano."],
       "highlightOrder": ["a piano.", "a piano.", "practice"],
-      "choiceList": ["연습해요", "를", "피아노"],
+      "choiceList": ["피아노"],
+      "particleChoiceList": ["을", "를"],
+      "endingList": ["연습해요"],
       "answer": ["피아노", "를", "연습해요"],
-      "stringAnswer": "피아노를 연습해요",
+      "stringAnswer": "피아노를 연습해요.",
       "guidanceMessages": [
         "How to say 'piano' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "How to say 'practice' in Korean?"
       ]
     },
@@ -99,14 +111,16 @@
       "quizId": "b7q7",
       "englishSentence": ["I", "study", "Korean."],
       "highlightOrder": ["I", "I", "Korean.", "Korean.", "study"],
-      "choiceList": ["저", "는", "한국어", "를", "공부해요"],
+      "choiceList": ["저", "한국어"],
+      "particleChoiceList": ["는", "를"],
+      "endingList": ["공부해요"],
       "answer": ["저", "는", "한국어", "를", "공부해요"],
-      "stringAnswer": "저는 한국어를 공부해요",
+      "stringAnswer": "저는 한국어를 공부해요.",
       "guidanceMessages": [
         "How to say 'I' in Korean?",
-        "How to express 'subject marker' in Korean?",
+        "What's the 'subject marker' in Korean?",
         "How to say 'Korean (language)' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "How to say 'study' in Korean?"
       ]
     },
@@ -114,12 +128,14 @@
       "quizId": "b7q8",
       "englishSentence": ["I", "do homework."],
       "highlightOrder": ["I", "I", "do homework."],
-      "choiceList": ["숙제해요", "는", "저"],
+      "choiceList": ["저"],
+      "particleChoiceList": ["는", "이"],
+      "endingList": ["숙제해요"],
       "answer": ["저", "는", "숙제해요"],
-      "stringAnswer": "저는 숙제해요",
+      "stringAnswer": "저는 숙제해요.",
       "guidanceMessages": [
         "How to say 'I' in Korean?",
-        "How to express 'subject marker' in Korean?",
+        "What's the 'subject marker' in Korean?",
         "How to say 'do homework' in Korean?"
       ]
     },
@@ -127,12 +143,14 @@
       "quizId": "b7q9",
       "englishSentence": ["I", "sing."],
       "highlightOrder": ["I", "I", "sing."],
-      "choiceList": ["저", "는", "노래해요"],
+      "choiceList": ["저"],
+      "particleChoiceList": ["는", "이"],
+      "endingList": ["노래해요"],
       "answer": ["저", "는", "노래해요"],
-      "stringAnswer": "저는 노래해요",
+      "stringAnswer": "저는 노래해요.",
       "guidanceMessages": [
         "How to say 'I' in Korean?",
-        "How to express 'subject marker' in Korean?",
+        "What's the 'subject marker' in Korean?",
         "How to say 'sing' in Korean?"
       ]
     },
@@ -140,13 +158,15 @@
       "quizId": "b7q10",
       "englishSentence": ["I", "love", "my", "boyfriend."],
       "highlightOrder": ["my", "boyfriend.", "boyfriend.", "love"],
-      "choiceList": ["저의", "남자친구", "를", "사랑해요"],
+      "choiceList": ["저의", "남자친구"],
+      "particleChoiceList": ["는", "를"],
+      "endingList": ["사랑해요"],
       "answer": ["저의", "남자친구", "를", "사랑해요"],
-      "stringAnswer": "저의 남자친구를 사랑해요",
+      "stringAnswer": "저의 남자친구를 사랑해요.",
       "guidanceMessages": [
         "How to say 'my' in Korean?",
         "How to say 'boyfriend' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "How to say 'love' in Korean?"
       ]
     }

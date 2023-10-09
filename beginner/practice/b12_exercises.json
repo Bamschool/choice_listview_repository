@@ -5,45 +5,63 @@
     {
       "quizId": "b12q1",
       "englishSentence": ["I", "bought", "a water melon", "and", "an orange."],
-      "highlightOrder": ["I", "bought", "a water melon", "and", "an orange."],
-      "choiceList": ["샀어요", "과", "오렌지", "를", "수박"],
+      "highlightOrder": [
+        "a water melon",
+        "and",
+        "an orange.",
+        "an orange.",
+        "bought"
+      ],
+      "choiceList": ["오렌지", "수박"],
+      "particleChoiceList": ["를", "와", "과"],
+      "endingList": ["샀어요"],
       "answer": ["수박", "과", "오렌지", "를", "샀어요"],
-      "stringAnswer": "수박과 오렌지를 샀어요",
+      "stringAnswer": "수박과 오렌지를 샀어요.",
       "guidanceMessages": [
         "How to say 'water melon' in Korean?",
-        "How to express 'and' in Korean?",
+        "What's the 'and' in Korean?",
         "How to say 'orange' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the past tense of 'to buy' in Korean?"
       ]
     },
     {
       "quizId": "b12q2",
       "englishSentence": ["English", "and", "Korean", "are", "different."],
-      "highlightOrder": ["English", "and", "Korean", "are", "different."],
-      "choiceList": ["달라요", "와", "한국어", "영어", "는", "영어"],
-      "answer": ["영어", "와", "한국어", "는", "달라요"],
-      "stringAnswer": "영어와 한국어는 달라요",
+      "highlightOrder": ["English", "and", "Korean", "Korean", "different."],
+      "choiceList": ["한국어", "영어"],
+      "particleChoiceList": ["는", "하고"],
+      "endingList": ["달라요"],
+      "answer": ["영어", "하고", "한국어", "는", "달라요"],
+      "stringAnswer": "영어하고 한국어는 달라요.",
       "guidanceMessages": [
         "How to say 'English' in Korean?",
-        "How to express 'and' in Korean?",
+        "What's the 'and' in Korean?",
         "How to say 'Korean' in Korean?",
-        "How to express 'subject marker' in Korean?",
+        "What's the 'subject marker' in Korean?",
         "How to say 'to be different' in Korean?"
       ]
     },
     {
       "quizId": "b12q3",
       "englishSentence": ["I", "don't have", "a closet", "and", "a locker."],
-      "highlightOrder": ["I", "don't have", "a closet", "and", "a locker."],
-      "choiceList": ["옷장", "없어요", "이", "이랑", "사물함"],
+      "highlightOrder": [
+        "a closet",
+        "and",
+        "a locker.",
+        "a locker.",
+        "don't have"
+      ],
+      "choiceList": ["옷장", "사물함"],
+      "particleChoiceList": ["이", "이랑"],
+      "endingList": ["없어요"],
       "answer": ["옷장", "이랑", "사물함", "이", "없어요"],
-      "stringAnswer": "옷장이랑 사물함이 없어요",
+      "stringAnswer": "옷장이랑 사물함이 없어요.",
       "guidanceMessages": [
         "How to say 'closet' in Korean?",
-        "How to express 'and' in Korean?",
+        "What's the 'and' in Korean?",
         "How to say 'closet' in Korean?",
-        "How to express 'subject marker' in Korean?",
+        "What's the 'subject marker' in Korean?",
         "What is the present tense of 'to not have/to not exist' in Korean?"
       ]
     },
@@ -57,110 +75,124 @@
         "strawberries."
       ],
       "highlightOrder": [
-        "I",
-        "am going to eat",
         "potatoes",
-        "and",
-        "strawberries."
+        "potatoes",
+        "strawberries",
+        "strawberries",
+        "am going to eat."
       ],
-      "choiceList": ["먹을 거예요", "와", "딸기", "감자", "를"],
+      "choiceList": ["딸기", "감자"],
       "answer": ["감자", "와", "딸기", "를", "먹을 거예요"],
-      "stringAnswer": "감자와 딸기를 먹을 거예요",
+      "particleChoiceList": ["를", "와"],
+      "endingList": ["먹을 거예요"],
+      "stringAnswer": "감자와 딸기를 먹을 거예요.",
       "guidanceMessages": [
         "How to say 'potatoes' in Korean?",
-        "How to express 'and' in Korean?",
+        "What's the 'and' in Korean?",
         "How to say 'strawberries' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the future tense of 'to eat' in Korean?"
       ]
     },
     {
       "quizId": "b12q5",
       "englishSentence": ["I", "will watch", "movies", "and", "dramas."],
-      "highlightOrder": ["I", "will watch", "movies", "and", "dramas."],
-      "choiceList": ["영화", "볼 거예요", "를", "와", "드라마"],
+      "highlightOrder": ["movies", "and", "dramas.", "dramas.", "will watch"],
+      "choiceList": ["영화", "드라마"],
+      "particleChoiceList": ["를", "와"],
+      "endingList": ["볼 거예요"],
       "answer": ["영화", "와", "드라마", "를", "볼 거예요"],
-      "stringAnswer": "영화와 드라마를 볼 거예요",
+      "stringAnswer": "영화와 드라마를 볼 거예요.",
       "guidanceMessages": [
         "How to say 'movie' in Korean?",
-        "How to express 'and' in Korean?",
+        "What's the 'and' in Korean?",
         "How to say 'drama' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the future tense of 'to watch' in Korean?"
       ]
     },
     {
       "quizId": "b12q6",
       "englishSentence": ["I", "sold", "the desk", "and", "the chair."],
-      "highlightOrder": ["I", "sold", "the desk", "and", "the chair."],
-      "choiceList": ["팔았어요", "이랑", "이랑", "를", "의자"],
-      "answer": ["책상", "이랑", "의자", "를", "팔았어요"],
-      "stringAnswer": "책상이랑 의자를 팔았어요",
+      "highlightOrder": ["the desk", "and", "the chair.", "the chair.", "sold"],
+      "choiceList": ["의자", "책상"],
+      "particleChoiceList": ["를", "하고"],
+      "endingList": ["팔았어요"],
+      "answer": ["책상", "하고", "의자", "를", "팔았어요"],
+      "stringAnswer": "책상하고 의자를 팔았어요.",
       "guidanceMessages": [
         "How to say 'desk' in Korean?",
-        "How to express 'and' in Korean?",
+        "What's the 'and' in Korean?",
         "How to say 'chair' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the past tense of 'to sell' in Korean?"
       ]
     },
     {
       "quizId": "b12q7",
       "englishSentence": ["I", "tied up", "books", "and", "magazines."],
-      "highlightOrder": ["I", "tied up", "books", "and", "magazines."],
-      "choiceList": ["묶었어요", "이랑", "책", "잡지", "를"],
+      "highlightOrder": ["books", "and", "magazines.", "magazines.", "tied up"],
+      "particleChoiceList": ["를", "이랑"],
+      "endingList": ["묶었어요"],
+      "choiceList": ["책", "잡지"],
       "answer": ["책", "이랑", "잡지", "를", "묶었어요"],
-      "stringAnswer": "책이랑 잡지를 묶었어요",
+      "stringAnswer": "책이랑 잡지를 묶었어요.",
       "guidanceMessages": [
         "How to say 'book' in Korean?",
-        "How to express 'and' in Korean?",
+        "What's the 'and' in Korean?",
         "How to say 'magazines' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the past tense of 'to tie up' in Korean?"
       ]
     },
     {
       "quizId": "b12q8",
       "englishSentence": ["I", "like", "apples", "and", "bananas."],
-      "highlightOrder": ["I", "like", "apples", "and", "bananas."],
-      "choiceList": ["를", "좋아해요", "랑", "사과", "바나나"],
+      "highlightOrder": ["apples", "and", "bananas.", "bananas.", "like"],
+      "choiceList": ["사과", "바나나"],
+      "particleChoiceList": ["를", "이랑", "랑"],
+      "endingList": ["좋아해요"],
       "answer": ["사과", "랑", "바나나", "를", "좋아해요"],
-      "stringAnswer": "사과랑 바나나를 좋아해요",
+      "stringAnswer": "사과랑 바나나를 좋아해요.",
       "guidanceMessages": [
         "How to say 'apple' in Korean?",
-        "How to express 'and' in Korean?",
+        "What's the 'and' in Korean?",
         "How to say 'banana' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "How to say 'to like' in Korean?"
       ]
     },
     {
       "quizId": "b12q9",
       "englishSentence": ["I", "met", "my friend", "and", "teacher."],
-      "highlightOrder": ["I", "met", "my friend", "and", "teacher."],
-      "choiceList": ["만났어요", "와", "선생님", "친구", "을"],
+      "highlightOrder": ["my friend", "and", "teacher.", "teacher.", "met"],
+      "choiceList": ["선생님", "친구"],
+      "particleChoiceList": ["을", "과", "와"],
+      "endingList": ["만났어요"],
       "answer": ["친구", "와", "선생님", "을", "만났어요"],
-      "stringAnswer": "친구와 선생님을 만났어요",
+      "stringAnswer": "친구와 선생님을 만났어요.",
       "guidanceMessages": [
         "How to say 'friend' in Korean?",
-        "How to express 'and' in Korean?",
+        "What's the 'and' in Korean?",
         "How to say 'teacher' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the past tense of 'to meet' in Korean?"
       ]
     },
     {
       "quizId": "b12q10",
       "englishSentence": ["I", "ate", "grapes", "and", "kiwis."],
-      "highlightOrder": ["I", "ate", "grapes", "and", "kiwis."],
-      "choiceList": ["먹었어요", "하고", "키위", "를", "포도"],
+      "highlightOrder": ["grapes", "and", "kiwis.", "kiwis.", "ate"],
+      "choiceList": ["키위", "포도"],
+      "particleChoiceList": ["를", "하고"],
+      "endingList": ["먹었어요"],
       "answer": ["포도", "하고", "키위", "를", "먹었어요"],
-      "stringAnswer": "포도하고 키위를 먹었어요",
+      "stringAnswer": "포도하고 키위를 먹었어요.",
       "guidanceMessages": [
         "How to say 'grapes' in Korean?",
-        "How to express 'and' in Korean?",
+        "What's the 'and' in Korean?",
         "How to say 'kiwis' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the past tense of 'to eat' in Korean?"
       ]
     }

@@ -6,12 +6,14 @@
       "quizId": "b9q1",
       "englishSentence": ["I", "will eat", "kimchi."],
       "highlightOrder": ["kimchi.", "kimchi.", "will eat", "will eat"],
-      "choiceList": ["김치", "먹을", "를", "거예요"],
-      "answer": ["김치", "를", "먹을", "거예요"],
-      "stringAnswer": "김치를 먹을 거예요",
+      "choiceList": ["김치"],
+      "particleChoiceList": ["를", "을"],
+      "endingList": ["먹을 거예요"],
+      "answer": ["김치", "를", "먹을 거예요"],
+      "stringAnswer": "김치를 먹을 거예요.",
       "guidanceMessages": [
         "How to say 'Kimchi' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the future tense of '먹다' in Korean?"
       ]
     },
@@ -19,12 +21,14 @@
       "quizId": "b9q2",
       "englishSentence": ["I", "will drink", "coffee."],
       "highlightOrder": ["coffee.", "coffee.", "will drink", "will drink"],
-      "choiceList": ["마실 거예요.", "커피", "를"],
-      "answer": ["커피", "를", "마실 거예요."],
+      "choiceList": ["커피"],
+      "particleChoiceList": ["를", "을"],
+      "endingList": ["마실 거예요"],
+      "answer": ["커피", "를", "마실 거예요"],
       "stringAnswer": "커피를 마실 거예요.",
       "guidanceMessages": [
         "How to say 'coffee' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the future tense of '마시다' in Korean?"
       ]
     },
@@ -32,12 +36,14 @@
       "quizId": "b9q3",
       "englishSentence": ["I", "will watch", "a movie."],
       "highlightOrder": ["a movie.", "a movie.", "will watch", "will watch"],
-      "choiceList": ["볼 거예요", "영화", "를"],
+      "choiceList": ["영화"],
+      "particleChoiceList": ["를", "을"],
+      "endingList": ["볼 거예요"],
       "answer": ["영화", "를", "볼 거예요"],
-      "stringAnswer": "영화를 볼 거예요",
+      "stringAnswer": "영화를 볼 거예요.",
       "guidanceMessages": [
         "How to say 'movie' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the future tense of '보다' in Korean?"
       ]
     },
@@ -50,12 +56,14 @@
         "will wait",
         "will wait"
       ],
-      "choiceList": ["를", "기다릴 거예요.", "친구"],
-      "answer": ["친구", "를", "기다릴 거예요."],
+      "choiceList": ["친구"],
+      "particleChoiceList": ["를", "을"],
+      "endingList": ["기다릴 거예요"],
+      "answer": ["친구", "를", "기다릴 거예요"],
       "stringAnswer": "친구를 기다릴 거예요.",
       "guidanceMessages": [
         "How to say 'friend' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the future tense of '기다리다' in Korean?"
       ]
     },
@@ -63,9 +71,10 @@
       "quizId": "b9q5",
       "englishSentence": ["I", "will go", "to Korea."],
       "highlightOrder": ["to Korea.", "to Korea.", "will go", "will go"],
-      "choiceList": ["한국에", "갈 거예요"],
+      "choiceList": ["한국에"],
+      "endingList": ["갈 거예요"],
       "answer": ["한국에", "갈 거예요"],
-      "stringAnswer": "한국에 갈 거예요",
+      "stringAnswer": "한국에 갈 거예요.",
       "guidanceMessages": [
         "How to say 'to Korea' in Korean?",
         "What is the future tense of 'to go' in Korean?"
@@ -75,9 +84,11 @@
       "quizId": "b9q6",
       "englishSentence": ["I", "will sleep", "later."],
       "highlightOrder": ["later.", "later.", "will sleep", "will sleep"],
-      "choiceList": ["자을 거예요", "잘 거예요", "이따가"],
+      "choiceList": ["이따가"],
+      "particleChoiceList": ["를"],
+      "endingList": ["자을 거예요", "잘 거예요"],
       "answer": ["이따가", "잘 거예요"],
-      "stringAnswer": "이따가 잘 거예요",
+      "stringAnswer": "이따가 잘 거예요.",
       "guidanceMessages": [
         "How to say 'later' in Korean?",
         "What is the future tense of '자다' in Korean?"
@@ -92,9 +103,10 @@
         "will hang out",
         "will hang out"
       ],
-      "choiceList": ["친구와", "놀 거예요", "노을 거예요"],
+      "choiceList": ["친구와"],
       "answer": ["친구와", "놀 거예요"],
-      "stringAnswer": "친구와 놀 거예요",
+      "endingList": ["놀 거예요", "노을 거예요"],
+      "stringAnswer": "친구와 놀 거예요.",
       "guidanceMessages": [
         "How to say 'with a friend' in Korean?",
         "What is the future tense of 'to hang out' in Korean?"
@@ -104,12 +116,14 @@
       "quizId": "b9q8",
       "englishSentence": ["I", "will buy", "clothes."],
       "highlightOrder": ["clothes.", "clothes.", "will buy", "will buy"],
-      "choiceList": ["을", "살 거예요", "옷"],
+      "choiceList": ["옷"],
+      "particleChoiceList": ["를", "을"],
+      "endingList": ["살 거예요", "사을 거예요"],
       "answer": ["옷", "을", "살 거예요"],
       "stringAnswer": "옷을 살 거예요",
       "guidanceMessages": [
         "How to say 'clothes' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the future tense of '사다' in Korean?"
       ]
     },
@@ -117,12 +131,14 @@
       "quizId": "b9q9",
       "englishSentence": ["I", "will read", "a book."],
       "highlightOrder": ["a book.", "a book.", "will read", "will read"],
-      "choiceList": ["읽을 거예요.", "읽 거예요.", "을", "책"],
-      "answer": ["책", "을", "읽을 거예요."],
-      "stringAnswer": "책을 읽을 거예요",
+      "choiceList": ["책"],
+      "particleChoiceList": ["를", "을"],
+      "endingList": ["읽 거예요", "읽을 거예요"],
+      "answer": ["책", "을", "읽을 거예요"],
+      "stringAnswer": "책을 읽을 거예요.",
       "guidanceMessages": [
         "How to say 'book' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the future tense of '읽다' in Korean?"
       ]
     },
@@ -130,12 +146,14 @@
       "quizId": "b9q10",
       "englishSentence": ["I", "will learn", "Korean."],
       "highlightOrder": ["Korean.", "Korean.", "will learn", "will learn"],
-      "choiceList": ["한국어를", "배울 거예요"],
-      "answer": ["한국어를", "배울 거예요"],
+      "choiceList": ["한국어"],
+      "particleChoiceList": ["를", "을"],
+      "endingList": ["배울 거예요", "밸 거예요"],
+      "answer": ["한국어", "를", "배울 거예요"],
       "stringAnswer": "한국어를 배울 거예요",
       "guidanceMessages": [
         "How to say 'Korean language' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the future tense of '배우다' in Korean?"
       ]
     }

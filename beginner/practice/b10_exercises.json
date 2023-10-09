@@ -6,114 +6,132 @@
       "quizId": "b10q1",
       "englishSentence": ["I", "am studying", "Korean."],
       "highlightOrder": ["Korean.", "Korean.", "am studying", "am studying"],
-      "choiceList": ["한국어를", "공부하고 있어요"],
-      "answer": ["한국어를", "공부하고 있어요"],
-      "stringAnswer": "한국어를 공부하고 있어요",
+      "choiceList": ["한국어"],
+      "particleChoiceList": ["를", "을"],
+      "endingList": ["공부하고 있어요"],
+      "answer": ["한국어", "를", "공부하고 있어요"],
+      "stringAnswer": "한국어를 공부하고 있어요.",
       "guidanceMessages": [
         "How to say 'Korean language' in Korean?",
-        "How to express 'object marker' in Korean?",
-        "How to express the present progressive tense of 'to study' in Korean?"
+        "What's the 'object marker' in Korean?",
+        "What's the the present progressive tense of 'to study' in Korean?"
       ]
     },
     {
       "quizId": "b10q2",
       "englishSentence": ["Minsu", "is sleeping."],
-      "highlightOrder": ["Minsu", "Minsu", "is sleeping.", "is sleeping."],
-      "choiceList": ["민수는", "자고 있어요"],
-      "answer": ["민수는", "자고 있어요"],
-      "stringAnswer": "민수는 자고 있어요",
+      "highlightOrder": ["Minsu", "Minsu", "is sleeping."],
+      "choiceList": ["민수"],
+      "particleChoiceList": ["는", "은"],
+      "endingList": ["자고 있어요"],
+      "answer": ["민수", "는", "자고 있어요"],
+      "stringAnswer": "민수는 자고 있어요.",
       "guidanceMessages": [
         "How to say 'Minsu' in Korean?",
-        "How to express the present progressive tense of 'to sleep' in Korean?"
+        "What's the 'subject marker' in Korean?",
+        "What's the the present progressive tense of 'to sleep' in Korean?"
       ]
     },
     {
       "quizId": "b10q3",
       "englishSentence": ["I", "am watching", "a movie."],
       "highlightOrder": ["a movie.", "a movie.", "am watching", "am watching"],
-      "choiceList": ["를", "보고 있어요", "영화"],
+      "choiceList": ["영화"],
+      "particleChoiceList": ["을", "를"],
+      "endingList": ["보고 있어요"],
       "answer": ["영화", "를", "보고 있어요"],
-      "stringAnswer": "영화를 보고 있어요",
+      "stringAnswer": "영화를 보고 있어요.",
       "guidanceMessages": [
         "How to say 'movie' in Korean?",
-        "How to express 'object marker' in Korean?",
-        "How to express the present progressive tense of 'to watch' in Korean?"
+        "What's the 'object marker' in Korean?",
+        "What's the the present progressive tense of 'to watch' in Korean?"
       ]
     },
     {
       "quizId": "b10q4",
       "englishSentence": ["I", "am going", "to", "home."],
       "highlightOrder": ["home.", "to", "am going", "am going"],
-      "choiceList": ["집에", "가고 있어요", "집"],
-      "answer": ["집에", "가고 있어요"],
-      "stringAnswer": "집에 가고 있어요",
+      "choiceList": ["집"],
+      "particleChoiceList": ["에"],
+      "endingList": ["가고 있어요"],
+      "answer": ["집", "에", "가고 있어요"],
+      "stringAnswer": "집에 가고 있어요.",
       "guidanceMessages": [
         "How to say 'home' in Korean?",
         "How do you express the particle that indicates location in Korean?",
-        "How to express the present progressive tense of 'to go' in Korean?"
+        "What's the the present progressive tense of 'to go' in Korean?"
       ]
     },
     {
       "quizId": "b10q5",
       "englishSentence": ["I", "am playing", "a piano."],
       "highlightOrder": ["a piano.", "a piano.", "am playing", "am playing"],
-      "choiceList": ["치고 있어요", "피아노를", "피아노"],
+      "choiceList": ["피아노"],
+      "particleChoiceList": ["를", "을"],
+      "endingList": ["치고 있어요"],
       "answer": ["피아노", "를", "치고 있어요"],
-      "stringAnswer": "피아노를 치고 있어요",
+      "stringAnswer": "피아노를 치고 있어요.",
       "guidanceMessages": [
         "How to say 'piano' in Korean?",
-        "How to express 'object marker' in Korean?",
-        "How to express the present progressive tense of 'to play + instrumental' in Korean?"
+        "What's the 'object marker' in Korean?",
+        "What's the the present progressive tense of 'to play + instrumental' in Korean?"
       ]
     },
     {
       "quizId": "b10q6",
       "englishSentence": ["My friend", "is coming", "to", "home."],
       "highlightOrder": ["My friend", "My friend", "home.", "to", "is coming"],
-      "choiceList": ["친구", "가", "집에", "오고 있어요"],
-      "answer": ["친구", "가", "집에", "오고 있어요"],
-      "stringAnswer": "친구가 집에 오고 있어요",
+      "choiceList": ["친구", "집"],
+      "particleChoiceList": ["가", "에"],
+      "endingList": ["오고 있어요"],
+      "answer": ["친구", "가", "집", "에", "오고 있어요"],
+      "stringAnswer": "친구가 집에 오고 있어요.",
       "guidanceMessages": [
         "How to say 'friend' in Korean?",
-        "How to express 'subject marker' in Korean?",
+        "What's the 'subject marker' in Korean?",
         "How to say 'home' in Korean?",
         "How do you express the particle that indicates location in Korean?",
-        "How to express the present progressive tense of 'to come' in Korean?"
+        "What's the the present progressive tense of 'to come' in Korean?"
       ]
     },
     {
       "quizId": "b10q7",
       "englishSentence": ["I", "am reading", "a book."],
       "highlightOrder": ["a book.", "a book.", "am reading", "am reading"],
-      "choiceList": ["을", "읽고 있어요", "책"],
+      "choiceList": ["책"],
+      "particleChoiceList": ["을", "를"],
+      "endingList": ["읽고 있어요"],
       "answer": ["책", "을", "읽고 있어요"],
-      "stringAnswer": "책을 읽고 있어요",
+      "stringAnswer": "책을 읽고 있어요.",
       "guidanceMessages": [
         "How to say 'book' in Korean?",
-        "How to express 'object marker' in Korean?",
-        "How to express the present progressive tense of 'to read' in Korean?"
+        "What's the 'object marker' in Korean?",
+        "What's the the present progressive tense of 'to read' in Korean?"
       ]
     },
     {
       "quizId": "b10q8",
       "englishSentence": ["I", "am living", "in", "Korea."],
       "highlightOrder": ["Korea.", "in", "live", "am living"],
-      "choiceList": ["한국에", "살고 있어요", "한국", "미국"],
-      "answer": ["한국에", "살고 있어요"],
-      "stringAnswer": "한국에 살고 있어요",
+      "choiceList": ["한국", "미국"],
+      "particleChoiceList": ["에"],
+      "endingList": ["살고 있어요"],
+      "answer": ["한국", "에", "살고 있어요"],
+      "stringAnswer": "한국에 살고 있어요.",
       "guidanceMessages": [
         "How to say 'Korea' in Korean?",
         "How do you express the particle that indicates location in Korean?",
-        "How to express the present progressive tense of 'to live' in Korean?"
+        "What's the the present progressive tense of 'to live' in Korean?"
       ]
     },
     {
       "quizId": "b10q9",
       "englishSentence": ["I", "am running", "now."],
       "highlightOrder": ["now.", "am running", "now.", "달리고 있어요"],
-      "choiceList": ["지금", "달리고 있어요", "어제"],
+      "choiceList": ["지금", "어제"],
+      "endingList": ["달리고 있어요"],
       "answer": ["지금", "달리고 있어요"],
-      "stringAnswer": "지금 달리고 있어요",
+      "stringAnswer": "지금 달리고 있어요.",
       "guidanceMessages": [
         "How to say 'now' in Korean?",
         "What is the present Progressive tense of 'to run' in Korean?"
@@ -128,22 +146,25 @@
         "am listening to",
         "am listening to"
       ],
-      "choiceList": ["을", "듣고 있어요", "음악", "과학"],
+      "choiceList": ["음악", "과학"],
+      "particleChoiceList": ["을", "를"],
+      "endingList": ["듣고 있어요"],
       "answer": ["음악", "을", "듣고 있어요"],
-      "stringAnswer": "음악을 듣고 있어요",
+      "stringAnswer": "음악을 듣고 있어요.",
       "guidanceMessages": [
         "How to say 'music' in Korean?",
-        "How to express 'object marker' in Korean?",
-        "How to express the present progressive tense of 'to listen' in Korean?"
+        "What's the 'object marker' in Korean?",
+        "What's the the present progressive tense of 'to listen' in Korean?"
       ]
     },
     {
       "quizId": "b10q11",
       "englishSentence": ["I", "am running", "now."],
       "highlightOrder": ["now.", "am running", "now.", "달리고 있어요"],
-      "choiceList": ["지금", "달리고 있어요", "어제"],
+      "choiceList": ["지금", "어제"],
+      "endingList": ["달리고 있어요"],
       "answer": ["지금", "달리고 있어요"],
-      "stringAnswer": "지금 달리고 있어요",
+      "stringAnswer": "지금 달리고 있어요.",
       "guidanceMessages": [
         "How to say 'now' in Korean?",
         "What is the present Progressive tense of 'to run' in Korean?"

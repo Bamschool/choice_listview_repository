@@ -1,0 +1,167 @@
+{
+  "currentVersion": "1.0.1",
+  "exerciseId": "b4",
+  "exercises": [
+    {
+      "quizId": "b4q1",
+      "englishSentence": ["This", "is", "a", "notebook"],
+      "highlightOrder": ["This", "This", "notebook", "notebook"],
+      "choiceList": ["이것", "공책"],
+      "particleChoiceList": ["은"],
+      "noSpaceEndingList": ["이에요", "예요"],
+      "answer": ["이것", "은", "공책", "이에요"],
+      "stringAnswer": "이것은 공책이에요.",
+      "guidanceMessages": [
+        "How to say 'this' in Korean?",
+        "What's the 'subject marker' in Korean?",
+        "How to say 'notebook' in Korean?",
+        "What's the 'to be' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b4q2",
+      "englishSentence": ["This", "is", "a", "book"],
+      "highlightOrder": ["This", "This", "book", "book"],
+      "choiceList": ["이것", "책"],
+      "particleChoiceList": ["은"],
+      "noSpaceEndingList": ["이에요", "예요"],
+      "answer": ["이것", "은", "책", "이에요"],
+      "stringAnswer": "이것은 책이에요.",
+      "guidanceMessages": [
+        "How to say 'this' in Korean?",
+        "What's the 'subject marker' in Korean?",
+        "How to say 'book' in Korean?",
+        "What's the 'to be' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b4q3",
+      "englishSentence": ["That", "is", "a", "pen"],
+      "highlightOrder": ["That", "That", "pen", "pen"],
+      "choiceList": ["저것", "펜"],
+      "particleChoiceList": ["은"],
+      "noSpaceEndingList": ["이에요", "예요"],
+      "answer": ["저것", "은", "펜", "이에요"],
+      "stringAnswer": "저것은 펜이에요.",
+      "guidanceMessages": [
+        "How to say 'that' in Korean?",
+        "What's the 'subject marker' in Korean?",
+        "How to say 'pen' in Korean?",
+        "What's the 'to be' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b4q4",
+      "englishSentence": ["She", "is", "a", "teacher"],
+      "highlightOrder": ["She", "She", "teacher", "teacher"],
+      "choiceList": ["그녀", "선생님"],
+      "particleChoiceList": ["는"],
+      "noSpaceEndingList": ["이에요", "예요"],
+      "answer": ["그녀", "는", "선생님", "이에요"],
+      "stringAnswer": "그녀는 선생님이에요.",
+      "guidanceMessages": [
+        "How to say 'she' in Korean?",
+        "What's the 'subject marker' in Korean?",
+        "How to say 'teacher' in Korean?",
+        "What's the 'to be' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b4q5",
+      "englishSentence": ["He", "is", "a", "student"],
+      "highlightOrder": ["He", "He", "student", "student"],
+      "choiceList": ["그", "학생"],
+      "particleChoiceList": ["는"],
+      "noSpaceEndingList": ["이에요", "예요"],
+      "answer": ["그", "는", "학생", "이에요"],
+      "stringAnswer": "그는 학생이에요.",
+      "guidanceMessages": [
+        "How to say 'he' in Korean?",
+        "What's the 'subject marker' in Korean?",
+        "How to say 'student' in Korean?",
+        "What's the 'to be' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b4q6",
+      "englishSentence": ["We", "are", "friends"],
+      "highlightOrder": ["We", "We", "friends", "friends"],
+      "choiceList": ["우리", "친구"],
+      "particleChoiceList": ["는"],
+      "noSpaceEndingList": ["이에요", "예요"],
+      "answer": ["우리", "는", "친구", "예요"],
+      "stringAnswer": "우리는 친구예요.",
+      "guidanceMessages": [
+        "How to say 'we' in Korean?",
+        "What's the 'subject marker' in Korean?",
+        "How to say 'friends' in Korean?",
+        "What's the 'to be' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b4q7",
+      "englishSentence": ["It", "is", "an", "apple"],
+      "highlightOrder": ["It", "It", "apple", "apple"],
+      "choiceList": ["그것", "사과"],
+      "particleChoiceList": ["은"],
+      "noSpaceEndingList": ["이에요", "예요"],
+      "answer": ["그것", "은", "사과", "예요"],
+      "stringAnswer": "그것은 사과예요.",
+      "guidanceMessages": [
+        "How to say 'it' in Korean?",
+        "What's the 'subject marker' in Korean?",
+        "How to say 'apple' in Korean?",
+        "What's the 'to be' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b4q8",
+      "englishSentence": ["They", "are", "workers"],
+      "highlightOrder": ["They", "They", "workers", "workers"],
+      "choiceList": ["그들", "직원들"],
+      "particleChoiceList": ["은"],
+      "noSpaceEndingList": ["이에요", "예요"],
+      "answer": ["그들", "은", "직원들", "이에요"],
+      "stringAnswer": "그들은 직원들이에요.",
+      "guidanceMessages": [
+        "How to say 'they' in Korean?",
+        "What's the 'subject marker' in Korean?",
+        "How to say 'workers' in Korean?",
+        "What's the 'to be' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b4q9",
+      "englishSentence": ["The", "sky", "is", "blue"],
+      "highlightOrder": ["sky", "sky", "blue", "blue"],
+      "choiceList": ["하늘", "파란색"],
+      "particleChoiceList": ["은"],
+      "noSpaceEndingList": ["이에요", "예요"],
+      "answer": ["하늘", "은", "파란색", "이에요"],
+      "stringAnswer": "하늘은 파란색이에요.",
+      "guidanceMessages": [
+        "How to say 'sky' in Korean?",
+        "What's the 'subject marker' in Korean?",
+        "What's the 'blue' in Korean?",
+        "What's the 'to be' in Korean?"
+      ]
+    },
+    {
+      "quizId": "b4q10",
+      "englishSentence": ["The", "person", "is", "my", "friend."],
+      "highlightOrder": ["The", "person", "person", "friend.", "friend."],
+      "choiceList": ["그", "사람", "친구"],
+      "particleChoiceList": ["은"],
+      "noSpaceEndingList": ["이에요", "예요"],
+      "answer": ["그", "사람", "은", "친구", "예요"],
+      "stringAnswer": "그 사람은 친구예요.",
+      "guidanceMessages": [
+        "How to say 'the' in Korean?",
+        "How to say 'person' in Korean?",
+        "What's the 'subject marker' in Korean?",
+        "What's the 'friend' in Korean?",
+        "What's the 'to be' in Korean?"
+      ]
+    }
+  ]
+}

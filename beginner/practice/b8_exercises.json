@@ -6,12 +6,14 @@
       "quizId": "b8q1",
       "englishSentence": ["I", "studied", "Korean."],
       "highlightOrder": ["Korean.", "Korean.", "studied"],
-      "choiceList": ["한국어", "를", "공부했어요"],
+      "choiceList": ["한국어"],
+      "particleChoiceList": ["을", "를"],
+      "endingList": ["공부했어요"],
       "answer": ["한국어", "를", "공부했어요"],
       "stringAnswer": "한국어를 공부했어요",
       "guidanceMessages": [
         "How to say 'Korean language' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the past tense of 'to study' in Korean?"
       ]
     },
@@ -19,7 +21,8 @@
       "quizId": "b8q2",
       "englishSentence": ["What", "did", "you", "do", "today?"],
       "highlightOrder": ["today?", "What", "do"],
-      "choiceList": ["뭐", "오늘", "했어요?"],
+      "choiceList": ["뭐", "오늘"],
+      "endingList": ["했어요?"],
       "answer": ["오늘", "뭐", "했어요?"],
       "stringAnswer": "오늘 뭐 했어요?",
       "guidanceMessages": [
@@ -30,11 +33,13 @@
     },
     {
       "quizId": "b8q3",
-      "englishSentence": ["I", "went", "to Jeju Island."],
-      "highlightOrder": ["to Jeju Island.", "went"],
-      "choiceList": ["에", "제주도", "갔어요"],
-      "answer": ["에", "제주도", "갔어요"],
-      "stringAnswer": "에 제주도 갔어요",
+      "englishSentence": ["I", "went", "to", "Jeju Island."],
+      "highlightOrder": ["Jeju Island.", "to", "went"],
+      "choiceList": ["제주도에"],
+      "particleChoiceList": ["이"],
+      "endingList": ["갔어요"],
+      "answer": ["제주도에", "갔어요"],
+      "stringAnswer": "제주도에 갔어요.",
       "guidanceMessages": [
         "How to say 'to Jeju Island' in Korean?",
         "What is the past tense of 'to go' in Korean?"
@@ -42,11 +47,12 @@
     },
     {
       "quizId": "b8q4",
-      "englishSentence": ["I", "Just", "washed my face."],
-      "highlightOrder": ["Just", "washed my face."],
-      "choiceList": ["방금", "세수했어요"],
+      "englishSentence": ["I", "just", "washed my face."],
+      "highlightOrder": ["just", "washed my face."],
+      "choiceList": ["방금"],
+      "endingList": ["세수했어요"],
       "answer": ["방금", "세수했어요"],
-      "stringAnswer": "방금 세수했어요",
+      "stringAnswer": "방금 세수했어요.",
       "guidanceMessages": [
         "How to say 'just' in Korean?",
         "What is the past tense of 'to wash one's face' in Korean?"
@@ -56,13 +62,15 @@
       "quizId": "b8q5",
       "englishSentence": ["I", "cleaned", "my", "house."],
       "highlightOrder": ["my", "house.", "house.", "cleaned"],
-      "choiceList": ["집", "청소했어요", "저의", "을"],
+      "choiceList": ["집", "저의"],
+      "particleChoiceList": ["을", "이"],
+      "endingList": ["청소했어요"],
       "answer": ["저의", "집", "을", "청소했어요"],
-      "stringAnswer": "저의 집을 청소했어요",
+      "stringAnswer": "저의 집을 청소했어요.",
       "guidanceMessages": [
         "How to say 'my' in Korean?",
         "How to say 'house' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the past tense of 'to clean' in Korean?"
       ]
     },
@@ -70,12 +78,14 @@
       "quizId": "b8q6",
       "englishSentence": ["I", "opened", "a door"],
       "highlightOrder": ["a door", "a door", "opened"],
-      "choiceList": ["을", "문", "열었어요"],
-      "answer": ["을", "문", "열었어요"],
-      "stringAnswer": "을 문 열었어요",
+      "choiceList": ["문"],
+      "particleChoiceList": ["을", "이"],
+      "endingList": ["열었어요"],
+      "answer": ["문", "을", "열었어요"],
+      "stringAnswer": "문을 열었어요.",
       "guidanceMessages": [
         "How to say 'door' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the past tense of 'to open' in Korean?"
       ]
     },
@@ -83,13 +93,15 @@
       "quizId": "b8q7",
       "englishSentence": ["Did", "you", "meet", "your friend", "yesterday?"],
       "highlightOrder": ["yesterday?", "your friend", "your friend", "meet"],
-      "choiceList": ["친구", "어제", "를", "만났어요?"],
+      "choiceList": ["친구", "어제"],
+      "particleChoiceList": ["을", "를"],
+      "endingList": ["만났어요?"],
       "answer": ["어제", "친구", "를", "만났어요?"],
       "stringAnswer": "어제 친구를 만났어요?",
       "guidanceMessages": [
         "How to say 'yesterday' in Korean?",
         "How to say 'friend' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the past tense of '만나다' in Korean?"
       ]
     },
@@ -97,9 +109,10 @@
       "quizId": "b8q8",
       "englishSentence": ["I", "exercised", "at home."],
       "highlightOrder": ["at home.", "exercised"],
-      "choiceList": ["집에서", "운동했어요", "잤어요"],
+      "choiceList": ["집에서"],
+      "endingList": ["운동했어요", "잤어요"],
       "answer": ["집에서", "운동했어요"],
-      "stringAnswer": "집에서 운동했어요",
+      "stringAnswer": "집에서 운동했어요.",
       "guidanceMessages": [
         "How to say 'at home' in Korean?",
         "What is the past tense of 'to exercise' in Korean?"
@@ -115,14 +128,16 @@
         "his friend.",
         "met"
       ],
-      "choiceList": ["만났어요", "친구", "은", "승환", "를"],
+      "choiceList": ["친구", "승환"],
       "answer": ["승환", "은", "친구", "를", "만났어요"],
-      "stringAnswer": "승환은 친구를 만났어요",
+      "particleChoiceList": ["은", "를"],
+      "endingList": ["만났어요"],
+      "stringAnswer": "승환은 친구를 만났어요.",
       "guidanceMessages": [
         "How to say 'Seunghwan' in Korean?",
-        "How to express 'subject marker' in Korean?",
+        "What's the 'subject marker' in Korean?",
         "How to say 'friend' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "How to say 'met' in Korean?"
       ]
     },
@@ -130,12 +145,14 @@
       "quizId": "b8q10",
       "englishSentence": ["I", "ate", "kimchi."],
       "highlightOrder": ["kimchi.", "kimchi.", "ate"],
-      "choiceList": ["를", "먹었어요", "김치"],
+      "choiceList": ["김치"],
+      "particleChoiceList": ["를", "을"],
+      "endingList": ["먹었어요"],
       "answer": ["김치", "를", "먹었어요"],
-      "stringAnswer": "김치를 먹었어요",
+      "stringAnswer": "김치를 먹었어요.",
       "guidanceMessages": [
         "How to say 'kimchi' in Korean?",
-        "How to express 'object marker' in Korean?",
+        "What's the 'object marker' in Korean?",
         "What is the past tense of '먹다' in Korean?"
       ]
     }
